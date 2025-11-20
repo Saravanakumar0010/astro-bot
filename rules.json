@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "id": "manglik",
+      "description": "Mars in houses 1,2,4,7,8,12 from Ascendant indicates Manglik Dosha."
+    },
+    {
+      "id": "moon_sign",
+      "description": "Moon sign = zodiac sign where Moon longitude lies (30° per sign)."
+    },
+    {
+      "id": "vimshottari",
+      "description": "Vimshottari Mahadasha derived from natal Moon nakshatra and elapsed years."
+    }
+  ]
+}

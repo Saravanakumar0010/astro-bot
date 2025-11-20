@@ -1,0 +1,5 @@
+pyswisseph
+gradio
+reportlab
+python-dateutil
+pytz
